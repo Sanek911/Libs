@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>e.Package</id>
+    <version>1.0.0.1</version>
+    <title>e.Package</title>
+    <authors>Alexander</authors>
+    <owners>Alexander</owners>
+	<description>
+		Include some Suspicious dlls
+	</description>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+  <files>
+	<file src="../libs/Telerik.Windows.Controls.dll" target="lib\net40" />
+	<file src="../libs/Telerik.Windows.Controls.GridView.dll" target="lib\net40" />
+	<file src="../libs/Telerik.Windows.Controls.Input.dll" target="lib\net40" />
+  </files>
+</package>
